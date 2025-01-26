@@ -1,0 +1,12 @@
+input: .
+output: .retype
+url: # 
+branding:
+  title: New Frontier
+  label: RP
+  logo: img\logo.png
+links:
+- text: Rejoinds notre discord
+  link: https://retype.com/guides/getting-started/
+footer:
+  copyright: "&copy; Copyright {{ year }}. All rights reserved."
